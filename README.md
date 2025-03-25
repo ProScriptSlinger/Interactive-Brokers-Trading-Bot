@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot">
+  <a href="https://github.com/ProScriptSlinger/Interactive-Brokers-Trading-Bot">
     <img src="images/IBTB_logo.png" alt="Logo" width="120" height="180">
   </a>
 
@@ -38,12 +38,12 @@
   <p align="center">
     A Python library written to handle IB's Client Portal API, manage portfolio and execute trades.
     <br />
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ProScriptSlinger/Interactive-Brokers-Trading-Bot"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot">View Demo</a>
+    <a href="https://github.com/ProScriptSlinger/Interactive-Brokers-Trading-Bot">View Demo</a>
     ·
-    <a href="https://github.com/Vincentho711/Interactive-Brokers-Trading-Bot">Report Bug</a>
+    <a href="https://github.com/ProScriptSlinger/Interactive-Brokers-Trading-Bot">Report Bug</a>
     ·
     <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
